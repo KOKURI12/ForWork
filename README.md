@@ -46,7 +46,9 @@ TaskExcelGenerator_Ja.zip
 
 ## 実行手順
 ①TaskExcelGenerator_Ja.zip配置先⇒cmd
+
 ②プロジェクトのコンパイル　　　 ⇒mvn compile
+
 ③Javaアプリケーションの実行     ⇒mvn exec:java -Dexec.mainClass=com.example.TaskExcelGenerator
 
 ## 出力されるファイル
