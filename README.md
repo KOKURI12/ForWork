@@ -43,8 +43,10 @@ Maven　ダウンロード先:https://maven.apache.org/download.cgi
 
 環境変数設定
 1.システム環境変数設定⇒新規⇒変数名:MAVEN_HOME　変数値:apache-mavenフォルダ格納先
+
 2.パス⇒編集⇒新規⇒%MAVEN_HOME%\bin
-3.cmd⇒mvn -version⇒バージョン表示あればOK
+
+3.cmd⇒mvn -version
 
 ### 3.プロジェクトをダウンロード＆解凍
 TaskExcelGenerator_Ja.zip
